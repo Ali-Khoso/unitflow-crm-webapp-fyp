@@ -1,0 +1,44 @@
+# Node / Next.js dependencies, artifacts and caches
+node_modules/
+.next/
+.turbo/
+dist/
+build/
+coverage/
+.vercel/
+*.tsbuildinfo
+
+# Environment secrets (never commit live credentials)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Customer / private industry / institutional material
+private/
+internal/
+customer-data/
+call-recordings/
+recordings/
+exports/
+confidential/
+*.bak
+
+# Local databases, logs and OS files
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Note: .gitignore is not a security boundary.
+# Do not publish proprietary source code or real personal data here.
