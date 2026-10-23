@@ -1,4 +1,4 @@
-# UnitFlow — AI-Enabled CRM & Field Operations Web App
+# UnitFlow CRM — AI-Enabled Field Operations & Workflow Automation Web App (FYP)
 
 > **Final Year Project (FYP) | Proposal & planning stage**  
 > **Public project showcase — proprietary implementation is not published here**
