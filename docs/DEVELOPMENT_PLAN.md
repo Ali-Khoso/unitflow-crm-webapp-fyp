@@ -27,7 +27,7 @@ We have **not yet collected baseline results, validated quantitative improvement
 
 ## Team feasibility and risk considerations
 
-Three-person FYP: prioritize one end-to-end AC repair case before advanced features. Use staged integrations or test environments if live provider accounts are not available.
+Two-member FYP: prioritize one end-to-end AC repair case before advanced features. Use staged integrations or test environments if live provider accounts are not available.
 
 Risks include scope creep, external API account/budget restrictions, timer/retry complexity, cross-tenant data exposure, AI extraction mistakes and schedule pressure.
 
