@@ -50,7 +50,6 @@ See [project status](docs/PROJECT_STATUS.md) and [development plan](docs/DEVELOP
 
 - Ali Ahmed Khoso
 - Arjia Ashraf
-- Khansa Amjad
 
 Academic supervisor: **Maj. Babar Yousaf**  
 Industry supervisor: **Hilal Aziz (UnitZero)**
